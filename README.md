@@ -19,19 +19,6 @@ Mục tiêu chính: sử dụng mô hình **CNN kết hợp với StarDist** đ�
 - Triển khai pipeline inference để dự đoán mới trên dữ liệu thực  
 - Đánh giá kết quả: đo lường độ chính xác, độ nhạy, F1-score giữa các lớp tế bào  
 
-## 🗂 Cấu trúc thư mục 
-/TTCS
-|— data/ # ảnh gốc và ảnh đã tiền xử lý
-|— notebooks/ # Jupyter notebooks thực nghiệm
-|— models/ # mô hình đã huấn luyện (.h5, .pt…)
-|— src/ # code chính (Python scripts)
-|— results/ # kết quả chạy thử và báo cáo
-|— README.md 
-|— .gitignore 
-
-bash
-Copy code
-
 ## 🚀 Hướng dẫn chạy thử  
 1. Clone repo về máy:  
    ```bash

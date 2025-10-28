@@ -1,0 +1,4414 @@
+{
+  "version": "0.5.1",
+  "createTimestamp": 1748616910818,
+  "modifyTimestamp": 1748616910818,
+  "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/QuPath/project.qpproj",
+  "lastID": 69,
+  "images": [
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_47.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_47.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 1,
+      "randomizedName": "558feff9-6b0c-48b6-bb86-def95caa8322",
+      "imageName": "BA_47.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_580.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_580.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 2,
+      "randomizedName": "3e594fcb-a766-4397-b369-f536dcc88652",
+      "imageName": "BA_580.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_1581.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_1581.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 3,
+      "randomizedName": "4095156d-c158-4edd-8414-018e8a42f643",
+      "imageName": "BA_1581.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_4744.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_4744.jpg",
+          "width": 366,
+          "height": 369,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 366,
+              "height": 369
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 366,
+          "preferredTileHeight": 369
+        }
+      },
+      "entryID": 4,
+      "randomizedName": "4ec74d48-30aa-45b2-b69e-523c12499e2d",
+      "imageName": "BA_4744.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_6109.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_6109.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 5,
+      "randomizedName": "ac2353a3-2587-465e-bf8c-e09cc61de08c",
+      "imageName": "BA_6109.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_20201.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_20201.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 6,
+      "randomizedName": "a71b5113-4976-457d-8150-c1dbd6a13dbf",
+      "imageName": "BA_20201.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_23839.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_23839.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 7,
+      "randomizedName": "09543f23-979f-4348-98b9-60ab5c38e3c7",
+      "imageName": "BA_23839.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_27002.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_27002.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 8,
+      "randomizedName": "920485eb-2846-40b5-8ad7-18260d1eb8bc",
+      "imageName": "BA_27002.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_32179.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_32179.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 9,
+      "randomizedName": "be85dc93-b4eb-4871-89b0-38c70a6a02c5",
+      "imageName": "BA_32179.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_38346.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_38346.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 10,
+      "randomizedName": "0742f209-390e-4b0b-a326-41afd3794b1a",
+      "imageName": "BA_38346.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_38489.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_38489.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 11,
+      "randomizedName": "5cb32538-3aa4-411a-a9ec-835430dc08e4",
+      "imageName": "BA_38489.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_38638.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_38638.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 12,
+      "randomizedName": "8c71b2d1-c6c5-4dfc-9616-4771acc9e6e9",
+      "imageName": "BA_38638.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_45632.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_45632.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 13,
+      "randomizedName": "a423b5ae-3a62-4a5e-952d-77a9908392b9",
+      "imageName": "BA_45632.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_46485.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_46485.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 14,
+      "randomizedName": "b4df852d-9d5e-4d79-b82b-fea38473e445",
+      "imageName": "BA_46485.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_53335.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_53335.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 15,
+      "randomizedName": "5bb88765-d39a-4dfe-8b01-cc9012996d4d",
+      "imageName": "BA_53335.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_56068.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_56068.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 16,
+      "randomizedName": "ee6d952c-6ba6-4cfa-9a4b-2633118678d1",
+      "imageName": "BA_56068.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_58212.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_58212.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 17,
+      "randomizedName": "27bd48d3-6ad9-46e2-b3ce-7d5f6253db36",
+      "imageName": "BA_58212.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_58432.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_58432.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 18,
+      "randomizedName": "be130fc7-2838-4ef2-94eb-01952418abf7",
+      "imageName": "BA_58432.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_58746.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_58746.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 19,
+      "randomizedName": "15f8f402-0277-40d1-9b9a-e094b835fef2",
+      "imageName": "BA_58746.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_59580.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_59580.jpg",
+          "width": 366,
+          "height": 369,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 366,
+              "height": 369
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 366,
+          "preferredTileHeight": 369
+        }
+      },
+      "entryID": 20,
+      "randomizedName": "8344f8bc-d257-4f80-ae92-fb75c42f8d1c",
+      "imageName": "BA_59580.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_60640.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_60640.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 21,
+      "randomizedName": "53085544-9fda-4045-9a17-18db8105eb77",
+      "imageName": "BA_60640.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_63104.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_63104.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 22,
+      "randomizedName": "e48dd5fd-3f9d-4b86-99a1-66eb35b5f3f7",
+      "imageName": "BA_63104.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_65751.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_65751.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 23,
+      "randomizedName": "a161ca78-a499-4cd4-a075-0cb42d63f6c8",
+      "imageName": "BA_65751.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_66312.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_66312.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 24,
+      "randomizedName": "034be464-baf2-43fd-8603-a5335b187819",
+      "imageName": "BA_66312.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_66834.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_66834.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 25,
+      "randomizedName": "40a7294c-d6d6-4d7a-920d-11a50a0ec324",
+      "imageName": "BA_66834.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_66887.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_66887.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 26,
+      "randomizedName": "f6879b94-4f83-4cce-b9c1-929b237a1f7f",
+      "imageName": "BA_66887.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_75331.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_75331.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 27,
+      "randomizedName": "0851ff7e-32ac-4b12-9a1b-9ec442a9431b",
+      "imageName": "BA_75331.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_77298.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_77298.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 28,
+      "randomizedName": "103afebf-392c-4a17-a3e6-56f60c067a39",
+      "imageName": "BA_77298.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_91996.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_91996.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 29,
+      "randomizedName": "ee47df42-c286-43af-bdf4-52f645ef6358",
+      "imageName": "BA_91996.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_92330.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_92330.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 30,
+      "randomizedName": "a8f4e7aa-a1ef-4158-aa5e-22b0f71514bb",
+      "imageName": "BA_92330.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_99338.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_99338.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 31,
+      "randomizedName": "18b607fe-e3d7-4970-9b8b-5a728d4c8928",
+      "imageName": "BA_99338.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_99625.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_99625.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 32,
+      "randomizedName": "e2e6cea8-8b41-4d88-84ea-bb0a8c9a18d8",
+      "imageName": "BA_99625.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_127868.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_127868.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 33,
+      "randomizedName": "19784cda-617b-44ac-bbe8-1a342abd1dd7",
+      "imageName": "BA_127868.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_130694.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_130694.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 34,
+      "randomizedName": "a864b80a-26ea-4eb2-9111-1bd3fc076283",
+      "imageName": "BA_130694.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_154572.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_154572.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 35,
+      "randomizedName": "7b3e8f36-d168-4451-9dd6-ebc6ba7847ad",
+      "imageName": "BA_154572.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_155216.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_155216.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 36,
+      "randomizedName": "d5288487-087f-4c4e-8fc1-98de64c9580e",
+      "imageName": "BA_155216.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_173262.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_173262.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 37,
+      "randomizedName": "ad0eaf1a-1dbf-473a-b721-4e0d54260a7e",
+      "imageName": "BA_173262.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_184105.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_184105.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 38,
+      "randomizedName": "b3de56ea-8ff1-4aed-9965-fd04e5968b16",
+      "imageName": "BA_184105.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_198565.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_198565.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 39,
+      "randomizedName": "b650668c-765a-4f85-bc73-261582ca3c6e",
+      "imageName": "BA_198565.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_200697.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_200697.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 40,
+      "randomizedName": "94c0c4d0-69e7-46e0-ba25-796fdeb38642",
+      "imageName": "BA_200697.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_208485.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_208485.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 41,
+      "randomizedName": "271e30ae-7f29-438d-9df9-b3d09caba626",
+      "imageName": "BA_208485.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_210917.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_210917.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 42,
+      "randomizedName": "c74b1f96-726d-4b74-b4a9-113b40c6894f",
+      "imageName": "BA_210917.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_219183.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_219183.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 43,
+      "randomizedName": "77448717-cec6-46a3-b976-b5c460a3cf98",
+      "imageName": "BA_219183.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_220744.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_220744.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 44,
+      "randomizedName": "67d907ea-3fa4-47d2-84ae-c2fabec18a06",
+      "imageName": "BA_220744.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_221009.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_221009.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 45,
+      "randomizedName": "75874218-f545-4421-9e8c-123c15847b0b",
+      "imageName": "BA_221009.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_221057.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_221057.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 46,
+      "randomizedName": "a8c026f8-ab14-444b-8508-baf566721376",
+      "imageName": "BA_221057.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_223010.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_223010.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 47,
+      "randomizedName": "92ca87f3-644c-40cd-8f87-104e9943a544",
+      "imageName": "BA_223010.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_236251.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_236251.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 48,
+      "randomizedName": "16594161-c496-4a72-8acd-202a15aebded",
+      "imageName": "BA_236251.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_238331.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_238331.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 49,
+      "randomizedName": "8fdf8027-5228-4b72-a5ff-ad217add419c",
+      "imageName": "BA_238331.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_255467.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_255467.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 50,
+      "randomizedName": "cd498c34-62ee-473c-886e-b933af19d76c",
+      "imageName": "BA_255467.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_266178.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_266178.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 51,
+      "randomizedName": "ca89c79f-d664-471e-8695-cb04f48538c3",
+      "imageName": "BA_266178.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_268064.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_268064.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 52,
+      "randomizedName": "73264264-190b-47e1-b11f-0ecdb1937173",
+      "imageName": "BA_268064.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_273793.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_273793.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 53,
+      "randomizedName": "17082c02-989f-4d61-b242-d40bf72942d8",
+      "imageName": "BA_273793.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_274684.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_274684.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 54,
+      "randomizedName": "1bf3efab-fafb-4fdc-b70b-62bf0c28d76c",
+      "imageName": "BA_274684.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_275073.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_275073.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 55,
+      "randomizedName": "49c8c4c2-1309-40b8-9df5-36594f9cb120",
+      "imageName": "BA_275073.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_281849.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_281849.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 56,
+      "randomizedName": "78c0b322-7ce0-4282-bedc-b357112ac172",
+      "imageName": "BA_281849.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_294650.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_294650.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 57,
+      "randomizedName": "8f1fc7d0-d6db-4f57-835d-c41cc7c8ecd6",
+      "imageName": "BA_294650.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_296615.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_296615.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 58,
+      "randomizedName": "2d3d4558-8a17-431f-a1d7-ca747f5ca470",
+      "imageName": "BA_296615.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_297732.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_297732.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 59,
+      "randomizedName": "9ff7d8dc-15eb-4a70-b8d8-beb01e8dc410",
+      "imageName": "BA_297732.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_305341.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_305341.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 60,
+      "randomizedName": "5a0b9bae-29d6-4e42-837f-49aa8717ab79",
+      "imageName": "BA_305341.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_305735.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_305735.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 61,
+      "randomizedName": "485c8f26-2ba9-428f-93b9-599af158a636",
+      "imageName": "BA_305735.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_324268.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_324268.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 62,
+      "randomizedName": "c60f5fb1-55b8-464d-8887-1163b684d74a",
+      "imageName": "BA_324268.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_331375.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_331375.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 63,
+      "randomizedName": "75636d81-6af8-4871-8aa5-3d96210ccae7",
+      "imageName": "BA_331375.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_332289.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_332289.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 64,
+      "randomizedName": "ec41d422-2b18-42f4-84cf-6f3fd50f9b8c",
+      "imageName": "BA_332289.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_332496.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_332496.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 65,
+      "randomizedName": "bed692d9-92dc-4069-9b79-3fe3a1e29272",
+      "imageName": "BA_332496.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_338836.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_338836.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 66,
+      "randomizedName": "9f2e62f8-7e2d-467e-bf97-468f78f118a0",
+      "imageName": "BA_338836.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_339232.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_339232.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 67,
+      "randomizedName": "a24ff4bc-de41-49b1-adc2-3efad2ab4a0e",
+      "imageName": "BA_339232.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/Test/BA_343929.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BA_343929.jpg",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 68,
+      "randomizedName": "f8df3f8c-9bd3-4235-9421-6c2bf50067d7",
+      "imageName": "BA_343929.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.imagej.images.servers.ImageJServerBuilder",
+        "uri": "file:/C:/Users/ADMIN/OneDrive/Documents/Code/TTCS/QuPath/ground_truth/masks/BA_47.jpg.tif",
+        "args": [],
+        "metadata": {
+          "name": "BA_47.jpg.tif",
+          "width": 360,
+          "height": 363,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 360,
+              "height": 363
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 360,
+          "preferredTileHeight": 363
+        }
+      },
+      "entryID": 69,
+      "randomizedName": "d3b223c6-5f36-44f4-82cf-39aee755a39d",
+      "imageName": "BA_47.jpg.tif",
+      "metadata": {}
+    }
+  ]
+}
